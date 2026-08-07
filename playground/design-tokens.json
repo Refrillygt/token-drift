@@ -1,0 +1,14 @@
+{
+    "spacing": {
+        "xs": 4,
+        "sm": 8,
+        "md": 12,
+        "lg": 16,
+        "xl": 24
+    },
+    "color": {
+        "primary": "#3366FF",
+        "danger": "#DC3545",
+        "success": "#28A745"
+    }
+}

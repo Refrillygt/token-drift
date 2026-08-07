@@ -1,0 +1,7 @@
+tests/
+playground/
+.github/
+coverage/
+eslint.config.js
+*.test.js
+.vscode/
