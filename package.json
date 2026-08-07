@@ -1,5 +1,5 @@
 {
-    "name": "token-drift",
+    "name": "@refrilly/token-drift",
     "version": "0.1.0-beta.1",
     "description": "ESLint plugin to detect design token drift (near-miss hardcoded spacing/color values) without strict blocking.",
     "type": "module",
