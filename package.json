@@ -28,6 +28,10 @@
         "react"
     ],
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Refrillygt/token-drift.git"
+    },
     "peerDependencies": {
         "eslint": ">=8.0.0"
     },
